@@ -1,0 +1,116 @@
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\hayvanatbahcesiProje.exe.config
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\hayvanatbahcesiProje.exe
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\hayvanatbahcesiProje.pdb
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.csproj.AssemblyReference.cache
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.csproj.SuggestedBindingRedirects.cache
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.Form1.resources
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.Properties.Resources.resources
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.csproj.GenerateResource.cache
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.csproj.CoreCompileInputs.cache
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.exe
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.pdb
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\Npgsql.dll
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Buffers.dll
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Collections.Immutable.dll
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Memory.dll
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Numerics.Vectors.dll
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Text.Encodings.Web.dll
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Text.Json.dll
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Threading.Channels.dll
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.ValueTuple.dll
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\Npgsql.xml
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Buffers.xml
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Collections.Immutable.xml
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Memory.xml
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Numerics.Vectors.xml
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Text.Encodings.Web.xml
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Text.Json.xml
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Threading.Channels.xml
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.ValueTuple.xml
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.bakici.resources
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.beslenme.resources
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.biletsatis.resources
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.guvenlikgorevlisi.resources
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.habitat.resources
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.hayvan.resources
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.il.resources
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.kus.resources
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.maasbilgisi.resources
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.memeli.resources
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.personel.resources
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.saglikci.resources
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.surungen.resources
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.tur.resources
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.ziyaretci.resources
+D:\C# projeler\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.csproj.CopyComplete
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.csproj.AssemblyReference.cache
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.exe
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.pdb
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\hayvanatbahcesiProje.exe.config
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\hayvanatbahcesiProje.exe
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\hayvanatbahcesiProje.pdb
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\Npgsql.dll
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Buffers.dll
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Collections.Immutable.dll
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Memory.dll
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Numerics.Vectors.dll
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Text.Encodings.Web.dll
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Text.Json.dll
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Threading.Channels.dll
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.ValueTuple.dll
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\Npgsql.xml
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Buffers.xml
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Collections.Immutable.xml
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Memory.xml
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Numerics.Vectors.xml
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Text.Encodings.Web.xml
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Text.Json.xml
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Threading.Channels.xml
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\bin\Debug\System.ValueTuple.xml
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.bakici.resources
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.beslenme.resources
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.biletsatis.resources
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.guvenlikgorevlisi.resources
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.habitat.resources
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.hayvan.resources
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.il.resources
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.kus.resources
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.maasbilgisi.resources
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.memeli.resources
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.personel.resources
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.Properties.Resources.resources
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.saglikci.resources
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.surungen.resources
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.tur.resources
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.ziyaretci.resources
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.csproj.GenerateResource.cache
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.csproj.CoreCompileInputs.cache
+C:\VeriTabanıProjesi\hayvanatbahcesiProje\hayvanatbahcesiProje\obj\Debug\hayvanatbahcesiProje.csproj.CopyComplete
